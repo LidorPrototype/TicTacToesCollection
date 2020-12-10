@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe1</string>
+    <string name="reset">reset</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="history_page">History Page:</string>
+    <string name="history">History</string>
+</resources>

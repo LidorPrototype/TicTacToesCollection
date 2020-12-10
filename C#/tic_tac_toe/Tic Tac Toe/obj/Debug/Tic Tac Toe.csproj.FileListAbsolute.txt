@@ -1,0 +1,15 @@
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\MainWindow.g.cs
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\App.g.cs
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.cache
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.lref
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\MainWindow.baml
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.g.resources
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\Study\P.Languages\C#\C# Projects\tic_tac_toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
